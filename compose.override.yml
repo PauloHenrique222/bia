@@ -1,0 +1,7 @@
+services:
+  server:
+    environment:
+      DB_HOST: bia.cox6mqai28b7.us-east-1.rds.amazonaws.com
+      DB_USER: postgres
+      DB_PWD: WpbtfiPxFb9oi2tK6tLi
+      DB_PORT: 5432
